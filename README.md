@@ -6,7 +6,7 @@ I am passionate about building products in order to bring my knowledge to the pr
 I have been obsessed with programming ever since I graduated out of middle school. I enjoy contributing to open source in my free time. I love Javascript 😍.
 In the upcoming years I see my self helping people to live a better life, using technology. 
 
-- 🔭 I’m currently working on improving my skills on **Data structures & Algorithms**
+- 🔭 I’m currently working on deep diving into **core JavaScript**
 - 🌱 I’m currently learning Go & Cloud fundamentals
 - 💬 Ask me about node.js, javascript, ci/cd
 - 🐣 How to reach me: [LinkedIn](https://www.linkedin.com/in/idrees-dargahwala/), [@theIYD](https://twitter.com/theIYD)
