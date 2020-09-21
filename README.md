@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/theIYD/theIYD/master/github_banner.png)](https://theiyd.github.io)
+[![](https://raw.githubusercontent.com/theIYD/theIYD/master/github_banner.png)](https://theidrees.me)
 👋 I'm Idrees. I am a budding Software Engineer & undergraduate based in Mumbai, India. 
 I was recently hired as a SDE intern by [Linckup](https://www.linkedin.com/company/linckup/) in April 2020. 
 
